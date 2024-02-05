@@ -5,19 +5,19 @@ And i look for  My interests primarily revolve around System Engineering, Model-
 
 ## 🔍 What I'm Exploring:
 
-  #  Undergraduate Mechatronics Student:
+  ###  Undergraduate Mechatronics Student:
       Currently working towards my degree, immersing myself in the multidisciplinary world of mechatronics.
 
-   # System Engineering Enthusiast: 
+  ### System Engineering Enthusiast: 
       Exploring the principles of System Engineering to understand how complex systems function and evolve over their life cycle.
 
-  #  Model-Based Development Learner: 
+###  Model-Based Development Learner: 
       Diving into the world of Model-Based Development to enhance my skills in designing and simulating dynamic systems.
 
-  #  Embedded Systems Explorer:
+###  Embedded Systems Explorer:
       Venturing into the realm of Embedded Systems, discovering how these systems play a crucial role in various engineering applications.
 
- #   Control Systems Learner:
+###   Control Systems Learner:
       Studying the principles of control systems and developing skills to design efficient control strategies for dynamic systems.
 
 
