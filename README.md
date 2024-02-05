@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Eslam Ahmed, an aspiring Mechatronics Engineer
 
 I'm currently an undergraduate student pursuing a degree in Mechatronics Engineering with a deep fascination for various engineering domains. 
-My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, and Control.
+And i look for  My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, and Control.
 
 ## 🔍 What I'm Exploring:
 
@@ -25,7 +25,7 @@ My interests primarily revolve around System Engineering, Model-Based Developmen
 
     Continuing my academic journey to gain deeper insights into mechatronics and its real-world applications.
 
-    Actively seeking opportunities for hands-on projects that allow me to apply theoretical knowledge to practical scenarios.
+    Actively seeking training, internship opportunities, or part-time work to apply my theoretical knowledge to practical scenarios and further enhance my skill set.
     
 
 
