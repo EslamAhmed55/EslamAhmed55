@@ -1,13 +1,49 @@
-### Hi there 👋,  Hello there! I'm Eslam Ahmed
-#### 🛠️ Aspiring Mechatronics Engineer | Actively Seeking Training and Internship Opportunities 🚀
-![🛠️ Aspiring Mechatronics Engineer | Actively Seeking Training and Internship Opportunities 🚀](https://drive.google.com/file/d/1kIVvgEDuUFiZPB7CwfdjWj5W4i7DCLUd/view?usp=drive_link)
+# 👋 Hello there! I'm Eslam Ahmed, an aspiring Mechatronics Engineer
 
-I'm currently an undergraduate student pursuing a degree in Mechatronics Engineering with a deep fascination for various engineering domains. My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, and Control.
+I'm currently an undergraduate student pursuing a degree in Mechatronics Engineering with a deep fascination for various engineering domains. 
+And i look for  My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, and Control.
 
-Skills: C/C++/Python/ Arduino/Matlab/Simulink
+## 🔍 What I'm Exploring:
 
-- 🔭 I’m currently working on this page. 
+  ###  Undergraduate Mechatronics Student:
+      Currently working towards my degree, immersing myself in the multidisciplinary world of mechatronics.
+
+  ### System Engineering Enthusiast: 
+      Exploring the principles of System Engineering to understand how complex systems function and evolve over their life cycle.
+
+###  Model-Based Development Learner: 
+      Diving into the world of Model-Based Development to enhance my skills in designing and simulating dynamic systems.
+
+###  Embedded Systems Explorer:
+      Venturing into the realm of Embedded Systems, discovering how these systems play a crucial role in various engineering
+      applications.
+
+###   Control Systems Learner:
+      Studying the principles of control systems and developing skills to design efficient control strategies for 
+      dynamic systems.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eslam-ahmed-a27043207//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009709812099&sk=about)  
+## 🚀 What's Next:
 
+    Continuing my academic journey to gain deeper insights into mechatronics and its real-world applications.
+
+    Actively seeking training, internship opportunities, or part-time work to apply my theoretical knowledge to practical scenarios 
+    and further enhance my skill set.
+    
+
+
+
+<!--
+**EslamAhmed55/EslamAhmed55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
