@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello there! I'm Eslam Ahmed</h1>
 <h3 align="center">an aspiring Mechatronics Engineer I'm currently an undergraduate student pursuing a degree in Mechatronics Engineering with a deep fascination for various engineering domains. My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, and Control.</h3>
 
+
+![git_hub-Banner](https://github.com/EslamAhmed55/EslamAhmed55/assets/95945188/17547962-deaa-4233-95d2-bbe3a5459044)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eslam-ahmed-a27043207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eslam-ahmed-a27043207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
@@ -9,7 +13,6 @@
 
 
 
-![git_hub-Banner](https://github.com/EslamAhmed55/EslamAhmed55/assets/95945188/17547962-deaa-4233-95d2-bbe3a5459044)
 
 
 
