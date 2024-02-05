@@ -27,7 +27,8 @@ And i look for  My interests primarily revolve around System Engineering, Model-
 
     Continuing my academic journey to gain deeper insights into mechatronics and its real-world applications.
 
-    Actively seeking training, internship opportunities, or part-time work to apply my theoretical knowledge to practical scenarios and further enhance my skill set.
+    Actively seeking training, internship opportunities, or part-time work to apply my theoretical knowledge to practical scenarios 
+    and further enhance my skill set.
     
 
 
