@@ -31,6 +31,7 @@ And i look for  My interests primarily revolve around System Engineering, Model-
     and further enhance my skill set.
     
 
+![Alt text]([relative/path/to/image.png](https://drive.google.com/file/d/1kIVvgEDuUFiZPB7CwfdjWj5W4i7DCLUd/view?usp=drive_link))
 
 
 <!--
