@@ -15,10 +15,12 @@ And i look for  My interests primarily revolve around System Engineering, Model-
       Diving into the world of Model-Based Development to enhance my skills in designing and simulating dynamic systems.
 
 ###  Embedded Systems Explorer:
-      Venturing into the realm of Embedded Systems, discovering how these systems play a crucial role in various engineering applications.
+      Venturing into the realm of Embedded Systems, discovering how these systems play a crucial role in various engineering
+      applications.
 
 ###   Control Systems Learner:
-      Studying the principles of control systems and developing skills to design efficient control strategies for dynamic systems.
+      Studying the principles of control systems and developing skills to design efficient control strategies for 
+      dynamic systems.
 
 
 ## 🚀 What's Next:
