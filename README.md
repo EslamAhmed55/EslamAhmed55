@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! I'm Eslam Ahmed</h1>
-<h3 align="center">an aspiring Mechatronics Engineer I'm currently an undergraduate student pursuing a degree in Mechatronics Engineering with a deep fascination for various engineering domains. My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, Robotics and Control.</h3>
+<h3 align="center">an aspiring Mechatronics Engineer. My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, Robotics and Control.</h3>
 
 
 ![git_hub-Banner](https://github.com/EslamAhmed55/EslamAhmed55/assets/95945188/17547962-deaa-4233-95d2-bbe3a5459044)
