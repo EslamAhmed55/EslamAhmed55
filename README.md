@@ -8,9 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eslam-ahmed-a27043207/" target="_blank" rel="noopener noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30" height="30">
-    <path fill="#0077B5" d="M5.08 3c-1.63 0-2.95 1.32-2.95 2.95v14.1c0 1.63 1.32 2.95 2.95 2.95h14.1c1.63 0 2.95-1.32 2.95-2.95v-14.1c0-1.63-1.32-2.95-2.95-2.95h-14.1zM8.6 18.5h-3.1v-9.6h3.1v9.6zM7.05 7.98c-.9 0-1.63-.73-1.63-1.63 0-.9.73-1.63 1.63-1.63s1.63.73 1.63 1.63c0 .9-.73 1.63-1.63 1.63zM18.5 18.5h-3.1v-5.3c0-1.3-.02-2.98-1.8-2.98-1.8 0-2.08 1.4-2.08 2.85v5.43h-3.1v-9.6h2.95v1.27h.04c.4-.75 1.4-1.54 2.9-1.54 3.1 0 3.68 2.04 3.68 4.7v5.17z"></path>
-  </svg>
+  <img src="https://raw.githubusercontent.com/carlosd-ss/icons/main/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px; filter: invert(46%) sepia(85%) saturate(5692%) hue-rotate(192deg) brightness(103%) contrast(100%);" />
 </a>
 
 
