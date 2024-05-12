@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eslam-ahmed-a27043207/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.1.0/icons/linkedin.svg" alt="LinkedIn Icon" height="32" width="32">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.1.0/icons/linkedin.svg" alt="LinkedIn Icon" height="32" width="32" style="fill: #0077b5;">
 </a>
 
 
