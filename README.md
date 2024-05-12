@@ -7,7 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eslam-ahmed-a27043207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eslam-ahmed-a27043207/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eslam-ahmed-a27043207/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.1.0/icons/linkedin.svg" alt="LinkedIn Icon" height="32" width="32">
+</a>
+
 
 
 
