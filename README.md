@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello there! I'm Eslam Ahmed</h1>
 <h3 align="center"> Mechatronics Engineer.</h3> My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, Robotics and Control.</h3>
 <div align="center">
- <img src="![334432140-7e318316-1d25-4f58-b3c3-3faad70b69cb](https://github.com/user-attachments/assets/327254cc-b862-4536-ac4e-1eaebf1930b4)
- " width="300">
+ <img src="334432140-7e318316-1d25-4f58-b3c3-3faad70b69cb.jpg" width="300">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
