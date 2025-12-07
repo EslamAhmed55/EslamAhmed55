@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello there! I'm Eslam Ahmed</h1>
-<h3 align="center"> Mechatronics Engineer.</h3> My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, Robotics and Control.</h3>
-![334432140-7e318316-1d25-4f58-b3c3-3faad70b69cb](https://github.com/user-attachments/assets/97b297cc-deba-4b7d-bf17-a9d3cb0db1a5)
+<h3 align="center">an aspiring Mechatronics Engineer. My interests primarily revolve around System Engineering, Model-Based Development, Embedded Systems, Robotics and Control.</h3>
+
+![360_F_482302769_ks8tZ7oAAfZDbHgt7kKlaoRLlUGRDgpt](https://github.com/EslamAhmed55/EslamAhmed55/assets/95945188/7e318316-1d25-4f58-b3c3-3faad70b69cb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
