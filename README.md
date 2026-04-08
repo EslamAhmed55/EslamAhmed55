@@ -18,7 +18,7 @@
 ## 🚀 About Me  
 I'm a Mechatronics Engineer passionate about designing intelligent systems that bridge simulation and real-world implementation. I enjoy transforming control theory, models, and algorithms into reliable embedded solutions that operate in real-time.
 
-My focus is on Model-Based Design, Embedded Systems, Control Engineering, and Software Engineering—building accurate system models, developing control algorithms, and deploying them on embedded platforms with efficiency and robustness in mind.
+My focus is on System Engineering, Model-Based Design, Embedded Systems, Control Engineering and Software Engineering to building accurate system models, developing control algorithms, and deploying them on embedded platforms with efficiency and robustness in mind.
 
 When I'm not working on simulations or embedded code, I enjoy exploring advanced control strategies, improving my system modeling skills, and learning new engineering tools. I especially enjoy the "aha!" moment when a simulation aligns with real-world behavior or a system performs reliably in practice.
 
@@ -28,7 +28,7 @@ When I'm not working on simulations or embedded code, I enjoy exploring advanced
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
 ## 🔭 What I'm Currently Working On  
-
+- **System engineering ** involves defining system requirements, ensuring effective integration and system testing, and enabling cross-disciplinary collaboration to deliver cohesive and reliable solutions.
 - **Model-Based Systems & Design:** Developing and validating system models, control logic, and simulations as part of a model-based workflow.  
 - **Embedded & Software Development:** Implementing embedded software with a focus on modular design, low-level drivers, and efficient code execution.  
 - **Control & Real-Time Systems:** Designing control algorithms and deploying them on RTOS-based embedded platforms to ensure deterministic and reliable real-time behavior.
