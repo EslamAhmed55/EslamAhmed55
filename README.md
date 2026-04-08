@@ -28,7 +28,7 @@ When I'm not working on simulations or embedded code, I enjoy exploring advanced
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
 ## 🔭 What I'm Currently Working On  
-- **System engineering ** involves defining system requirements, ensuring effective integration and system testing, and enabling cross-disciplinary collaboration to deliver cohesive and reliable solutions.
+- **System Engineering:** Defining system requirements, ensuring effective integration and system testing, and enabling cross-disciplinary collaboration to deliver cohesive and reliable solutions.
 - **Model-Based Systems & Design:** Developing and validating system models, control logic, and simulations as part of a model-based workflow.  
 - **Embedded & Software Development:** Implementing embedded software with a focus on modular design, low-level drivers, and efficient code execution.  
 - **Control & Real-Time Systems:** Designing control algorithms and deploying them on RTOS-based embedded platforms to ensure deterministic and reliable real-time behavior.
